@@ -1,4 +1,3 @@
-
 const gElem = (x) => document.querySelector(x);
 const gElemAll = (x) => document.querySelectorAll(x);
 
