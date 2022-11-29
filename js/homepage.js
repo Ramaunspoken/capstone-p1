@@ -1,4 +1,3 @@
-
 const toggleModal = () => {
   document.querySelector('.modal-article').classList.toggle('df');
 };
