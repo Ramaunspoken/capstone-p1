@@ -121,3 +121,4 @@ const fecthTutorDataForDesktop = () => updateTutorDom(tutorsData, false, true);
 window.onload = () => {
   fecthTutorDataForMobile();
   fecthTutorDataForDesktop();
+};
