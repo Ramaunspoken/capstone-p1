@@ -107,11 +107,11 @@ Javascript and Licenced with MIT.
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name=""></a>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link)
+- [[Live Demo Link](https://ramaunspoken.github.io/capstone-p1/index.html))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
