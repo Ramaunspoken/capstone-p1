@@ -251,7 +251,9 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Cindy Shin in Behance for the inspiration in helping me build this project.
+To get inspirations like this follow the link below.
+[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
