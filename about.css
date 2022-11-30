@@ -50,7 +50,6 @@ address {
   margin-bottom: 20px;
 }
 
-/* About Logo */
 .about-logo {
   display: flex;
   justify-content: center;
@@ -84,8 +83,6 @@ address {
   width: 100%;
   max-width: 500px;
 }
-
-/* Past Section */
 
 .about-past {
   display: flex;
@@ -138,7 +135,7 @@ address {
   text-align: center;
   background: rgba(216, 34, 34, 0.7);
   padding: 20px;
-  transition: all 0.1s ease-in-out;
+  cursor: pointer;
 }
 
 .bootcamp-year {
@@ -153,7 +150,7 @@ address {
   font-weight: 500;
 }
 
-.bootcamp-info:hover {
+.bootcamp-info {
   transform: scale(1.3);
   background: rgba(216, 34, 34, 0.8);
 }
