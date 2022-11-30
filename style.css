@@ -111,6 +111,10 @@ a {
   font-weight: bold;
 }
 
+.navbar ul {
+  letter-spacing: 1.5px;
+}
+
 .nav-link {
   width: 100%;
   display: block;
@@ -129,18 +133,18 @@ a {
   color: #d3d3d3;
 }
 
-.nav-box {
+.nav-boxs {
   border: 3px solid #ec5242;
   font-weight: bold;
   color: #ec5242 !important;
 }
 
-.nav-box:hover {
+.nav-boxs:hover {
   background: #ec5242;
   color: #fff !important;
 }
 
-.nav-box:active {
+.nav-boxs:active {
   color: #ec5242 !important;
   background: #fff !important;
 }
