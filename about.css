@@ -150,7 +150,7 @@ address {
   font-weight: 500;
 }
 
-.bootcamp-info:hovers {
+.bootcamp-info:hover {
   transform: scale(1.3);
   background: rgba(216, 34, 34, 0.8);
 }
