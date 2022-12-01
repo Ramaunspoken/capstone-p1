@@ -79,7 +79,7 @@ const updateTutorDom = (data, hasPage, d = false) => {
     mobileTutorList.className = 'tutor-list';
     mobileTutorList.innerHTML = `
     <div class="tutor-img">
-      <img class="tiles" src="./images/tiles.png" alt="tiles"/>
+      <img class="tiles" src="./images/icons8-puzzled-50.png" alt="tiles"/>
       <img class="profile" src="${item.profileImage}" alt="${item.name}"/>
     </div>
     <div class="tutor-info">
