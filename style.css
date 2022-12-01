@@ -57,7 +57,7 @@ a {
 
 .navbar {
   width: 100%;
-  max-width: 880px;
+  max-width: 80%;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -99,7 +99,7 @@ a {
   min-height: 100vh;
   position: absolute;
   flex-direction: column;
-  background: rgba(236, 82, 66, 0.4);
+  background: rgba(8, 7, 6, 0.4);
   align-items: flex-start;
   padding: 25px;
   backdrop-filter: blur(5px);
@@ -259,7 +259,7 @@ a {
 
 .program-item:hover {
   transform: translateY(-3px);
-  border-color: #fff;
+  border-color: rgb(241, 90, 90);
 }
 
 .program-img {
@@ -549,6 +549,7 @@ a {
     color: #fff;
     justify-content: flex-end;
     align-items: center;
+    padding: 0 7%;
     width: 100%;
   }
 
@@ -579,7 +580,6 @@ a {
   }
 
   .navbar {
-    padding: 20px;
     justify-content: space-between;
   }
 
